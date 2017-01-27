@@ -1,6 +1,6 @@
 # tlg-dataset
 
-Dataset of News Articles for the Timeline Generation Problem. See [(Holt et. al 2016)](http://alta2016.alta.asn.au/U16/U16-1020.pdf).
+Dataset of news articles for the Timeline Generation Problem. See [(Holt et. al 2016)](http://alta2016.alta.asn.au/U16/U16-1020.pdf).
 
 ## Data
 
