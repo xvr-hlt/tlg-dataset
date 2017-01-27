@@ -14,7 +14,7 @@ The primary dataset is comprised of the set of crowd-annotated articles for our 
 - **importance**: Crowd-annotated label. One of 'not', 'somewhat' or 'very' important.
 - **importance_conf**: Confidence of above annotation.
 
-### Secondary Dataset: `supplement.csv`
+### Secondary Dataset: `google.csv`
 
 The secondary dataset is comprised of a number of entity-linked articles retrieved by querying Google News. Columns:
 
